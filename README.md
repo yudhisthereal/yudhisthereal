@@ -16,9 +16,9 @@ I'm an undergraduate student pursuing a degree in Computer Engineering with a pa
 
 Here are a few projects I've worked on:
 
-- **Automatic Fish Feeder**: An Arduino Nano-based automatic feeder for your fish, utilizing real-time clock (RTC) modules and servo motors to automate feeding.
-- **Ultrasonic Person Counter**: A device that can count people in a room (not exactly) by counting up when someone enters and counting down when someone exits.
-- **Smart Fan (IoT)**: This Smart Fan turns on automatically if the temperature is above the user defined threshold. It's mode (auto or manual), sweep (on or off), and rotation can be controlled using Blynk on my mobile device!
+- [**Automatic Fish Feeder**](https://github.com/yudhisthereal/Automatic-Fish-Feeder): An Arduino Nano-based automatic feeder for your fish, utilizing real-time clock (RTC) modules and servo motors to automate feeding.
+- [**Ultrasonic Person Counter**](https://github.com/yudhisthereal/Ultrasonic-People-in-a-Room-Counter): A device that can count people in a room (not exactly) by counting up when someone enters and counting down when someone exits.
+- [**Smart Fan (IoT)**](https://github.com/yudhisthereal/Smart-Fan-IoT-Using-ESP32): This Smart Fan turns on automatically if the temperature is above the user defined threshold. It's mode (auto or manual), sweep (on or off), and rotation can be controlled using Blynk on my mobile device!
 
 ## Get in Touch
 
